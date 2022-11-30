@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b43
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b43
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Análise do GitHub
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=akiwnl&show_icons=true&theme=radical" alt="Kaike Carvalho's stats"/>
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b43
 
 <br><br>
 
-## ☎️ &nbsp;Contact
+## ☎️ &nbsp;Contato
 
 <p align="left" style="background:yellow">
 
