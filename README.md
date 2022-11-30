@@ -32,8 +32,8 @@ src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b43
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=akiwnl&show_icons=true&theme=radical" alt="Kaike Carvalho's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiwnl&layout=compact&theme=radical" alt="Kaike Carvalho's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=akiwnl&show_icons=true&theme=radical" alt="Kaike Carvalho's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiwnl&layout=compact&theme=radical" alt="Kaike Carvalho's most languages"/>
 </p>
 
 
