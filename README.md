@@ -1,4 +1,4 @@
-<img align="right" height="590em"
+<img align="right" height="530em"
 src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b439df/raw/9f450b581e6d75b6197bf37db532b77978684b33/githubcard.svg"/>
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Kaike!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiwnl&color=yellow" alt="Profile views" /> </p>
@@ -32,8 +32,8 @@ src="https://raw.githubusercontent.com/gist/akiwnl/4e09035b9bf48b78bd82caad53b43
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=akiwnl&show_icons=true&theme=radical" alt="Kaike Carvalho's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiwnl&layout=compact&theme=radical" alt="Kaike Carvalho's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=akiwnl&show_icons=true&theme=radical" alt="Kaike Carvalho's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiwnl&layout=compact&theme=radical" alt="Kaike Carvalho's most languages"/>
 </p>
 
 
